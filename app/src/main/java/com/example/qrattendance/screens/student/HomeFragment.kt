@@ -1,4 +1,4 @@
-package com.example.qrattendance.screens
+package com.example.qrattendance.screens.student
 
 import com.example.qrattendance.base.BaseFragment
 import com.example.qrattendance.databinding.FragmentHomeBinding

@@ -6,11 +6,11 @@
 
     <fragment
         android:id="@+id/homeFragment2"
-        android:name="com.example.qrattendance.screens.HomeFragment"
+        android:name="com.example.qrattendance.screens.student.HomeFragment"
         android:label="HomeFragment" />
     <fragment
         android:id="@+id/qrScannerFragment"
-        android:name="com.example.qrattendance.screens.QrScannerFragment"
+        android:name="com.example.qrattendance.screens.student.QrScannerFragment"
         android:label="QrScannerFragment" />
     <fragment
         android:id="@+id/profileFragment2"

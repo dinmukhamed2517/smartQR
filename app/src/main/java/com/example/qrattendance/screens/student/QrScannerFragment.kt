@@ -1,4 +1,4 @@
-package com.example.qrattendance.screens
+package com.example.qrattendance.screens.student
 
 import android.Manifest
 import android.content.pm.PackageManager
